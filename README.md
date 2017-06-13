@@ -7,7 +7,7 @@ and adds the results to an ArrayList for output to a file.
 
 The CSV file is formatted for a mass CSV-to-category generator PHP plugin for Wordpress with the year as the parent category and all dates as subcategories for the relevant year. 
 
-###Basic Recursive Folder Parsing Template
+### Basic Recursive Folder Parsing Template
 
 ```java
 	/* --------------------------------------------------
